@@ -1,0 +1,5 @@
+*.csv
+__pycache__
+*.txt
+sample.py
+sample2.py
